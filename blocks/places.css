@@ -76,7 +76,7 @@
 }
 
 .places__button:hover {
-  background: linear-gradient(90deg, #173b63 0%, #06214180 99.98%);
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 
 @media screen and (max-width: 768px) {
